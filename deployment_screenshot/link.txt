@@ -1,2 +1,2 @@
-Link Endpoint URL 200: http://imagefilterstartercode-env.eba-mbmmbbvf.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://img.lovepik.com/free-png/20210922/lovepik-rainbow-cloud-cartoon-free-material-png-image_401096420_wh1200.png
-Link Endpoint URL 400: http://imagefilterstartercode-env.eba-mbmmbbvf.us-east-1.elasticbeanstalk.com/filteredimage?image_url
+Link Endpoint URL 200: Image-processing-microservice-aw-env.eba-6zgjeyzp.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/11819272/pexels-photo-11819272.jpeg?auto=compress%26cs=tinysrgb%26w=300
+Link Endpoint URL 400: Image-processing-microservice-aw-env.eba-6zgjeyzp.us-east-1.elasticbeanstalk.com/filteredimage?image_url
