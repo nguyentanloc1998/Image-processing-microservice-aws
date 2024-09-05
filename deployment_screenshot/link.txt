@@ -1,0 +1,2 @@
+Link Endpoint URL 200: http://imagefilterstartercode-env.eba-mbmmbbvf.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://img.lovepik.com/free-png/20210922/lovepik-rainbow-cloud-cartoon-free-material-png-image_401096420_wh1200.png
+Link Endpoint URL 400: http://imagefilterstartercode-env.eba-mbmmbbvf.us-east-1.elasticbeanstalk.com/filteredimage?image_url
